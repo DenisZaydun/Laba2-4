@@ -1,0 +1,16 @@
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.csproj.AssemblyReference.cache
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.AssemblyInfoInputs.cache
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.AssemblyInfo.cs
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.csproj.CoreCompileInputs.cache
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.exe
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.deps.json
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.runtimeconfig.json
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.runtimeconfig.dev.json
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.dll
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\ref\Лб2,№4.dll
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\bin\Debug\net5.0\Лб2,№4.pdb
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.dll
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\ref\Лб2,№4.dll
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.pdb
+E:\My_Projects\c#\2 курс\Лб2,№4\Лб2,№4\obj\Debug\net5.0\Лб2,№4.genruntimeconfig.cache
